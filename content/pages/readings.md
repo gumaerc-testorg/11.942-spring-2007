@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fb053f05-324c-35b8-3ecb-cbf18ffa47d1
 ---
@@ -62,7 +65,7 @@ Green accounting and relevance for regional modeling
 {{< tdopen >}}
 
 
-Bolt, Katherine, Giovanni Ruta, and Maria Sarraf. "Estimating the Cost of Environmental Degradation" ([PDF - 2.2 MB](https://www.semanticscholar.org/paper/Estimating-the-cost-of-environmental-degradation-%3A-Bolt-Ruta/74de8a6030aea3ef75b3e785eec5ea78d676b291))#. Washington, DC: The World Bank Environment Department, 2005, pp. E1-E80.
+Bolt, Katherine, Giovanni Ruta, and Maria Sarraf. "Estimating the Cost of Environmental Degradation" ([PDF - 2.2 MB](https://www.semanticscholar.org/paper/Estimating-the-cost-of-environmental-degradation-%3A-Bolt-Ruta/74de8a6030aea3ef75b3e785eec5ea78d676b291)){{< sup "#" >}}. Washington, DC: The World Bank Environment Department, 2005, pp. E1-E80.
 
 Hecht, Joy. _National Environmental Accounting: Bridging the Gap between Ecology and Economy_. Washington, DC: Resources for the Future, 2005, pp. 53-89. ISBN: 978-1891853944.
 
@@ -206,7 +209,7 @@ Kaufmann, Robert, Stephane Dees, Pavlos Karadeloglou, and Marcelo Sanchez. "Does
 
 Polenske, Karen. _The Technology-Energy-Environmental-Health (TEEH) Chain: A Case Study of Cokemaking_. Dordrecht, Netherlands: Springer, 2006, pp. 1-22. ISBN: 978-1402034336.
 
-Polenske, Karen, and Ali Shirvani-Mahdavi. "Review of an Emissions Permit Exchange and the Characteristics of the Reclaim NOx Market in Los Angeles." Prepared for the South Coast Air Quality Management District, 2001.
+Polenske, Karen, and Ali Shirvani-Mahdavi. "Review of an Emissions Permit Exchange and the Characteristics of the Reclaim NO{{< sub "x" >}} Market in Los Angeles." Prepared for the South Coast Air Quality Management District, 2001.
 
 
 {{< tdclose >}}
