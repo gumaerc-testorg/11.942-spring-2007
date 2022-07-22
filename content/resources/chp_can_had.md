@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Climate Models
 uid: ed6952f6-7f3f-175f-a047-7f0b52091d7a
 ---
 Image showing Canadian and Hadley climate models.
-
