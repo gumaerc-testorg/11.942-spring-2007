@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing Canadian and Hadley climate models.
-file: /ol-ocw-studio-app/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/ed6952f67f3f175fa0477f0b52091d7a_chp_can_had.jpg
+file: /courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/ed6952f67f3f175fa0477f0b52091d7a_chp_can_had.jpg
 file_size: 71167
 file_type: image/jpeg
 image_metadata:
